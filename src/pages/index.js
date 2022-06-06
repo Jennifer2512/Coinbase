@@ -1,1 +1,5 @@
-import Landing from ''
+import Landing from 'pages/landing';
+
+export {
+    Landing
+}
